@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/eYTuOlgZ)
-# Car Package Builder
+# Car Builder
 
 This package provides a `Car` class which represents a car with customizable features such as seats, engine, trip computer, and GPS. It allows you to create and configure a car object according to your requirements. This application is written in Java.
 
